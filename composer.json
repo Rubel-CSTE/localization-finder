@@ -1,0 +1,19 @@
+{
+    "name": "sufian/localization-finder",
+    "description": "Localization Finder Laravel Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sufian\\LocalizationFinder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubel-CSTE",
+            "email": "rubel.nstu27@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
